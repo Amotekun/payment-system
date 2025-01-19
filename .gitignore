@@ -12,3 +12,6 @@
 #IDE files
 .vscode
 *.imlgit 
+
+#Ignore all .env files in any directory 
+**/*.env
